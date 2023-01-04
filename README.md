@@ -63,6 +63,28 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 ## CÁLCULOS
 
+![LAB_3](https://user-images.githubusercontent.com/116693260/210484794-7351725b-3de3-4d0e-96b2-acfdf07cd275.jpg)
+
+![LAB_4](https://user-images.githubusercontent.com/116693260/210484797-daa0201d-04a6-4a60-9fcd-ebc7319da0ac.jpg)
+
+![LAB_5](https://user-images.githubusercontent.com/116693260/210484798-d786c386-6b33-4f0f-9fbe-50dbb32262be.jpg)
+
+![LAB_6](https://user-images.githubusercontent.com/116693260/210484800-c8aaa794-e6d7-4cce-bb38-841751651d86.jpg)
+
+![LAB_7](https://user-images.githubusercontent.com/116693260/210484801-237959e3-d16a-4945-891d-c7c6a75752da.jpg)
+
+![LAB_8](https://user-images.githubusercontent.com/116693260/210484802-d609e192-e556-492a-8c9e-6db77cdccb34.jpg)
+
+![LAB_9](https://user-images.githubusercontent.com/116693260/210484804-d774cdf2-2529-4297-a53f-a6c606a25b53.jpg)
+
+  Valores del Circuito Equivalente de Thévenin
+
+![LAB_1](https://user-images.githubusercontent.com/116693260/210484814-3feb3378-7816-4173-8dcd-e49fb39332ce.jpg)
+
+  Comprobación del Teorema de Thévenin
+
+![LAB_2](https://user-images.githubusercontent.com/116693260/210484816-47cff39e-d117-41e8-a1fc-387dbc81c202.jpg)
+
 ## CONCLUSIONES
 
 ## BIBLIOGRAFÍA
