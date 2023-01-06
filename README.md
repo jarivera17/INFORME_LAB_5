@@ -14,7 +14,7 @@ Docente : Ing. Darwin Alulema
 
 ## OBJETIVO DE LA PRÁCTICA
 
-Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
+* Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 ## MARCO TEÓRICO
 
@@ -59,7 +59,33 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
   ![image](https://user-images.githubusercontent.com/116693260/210474855-26e7e289-0661-4059-bc87-1b8e3e05216e.png)
 
-## VIDEO EXPLICATIVO 
+  Circuito físico
+  
+  1. Corriente que pasa por R5 en el circuito original.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/211031812-d34908e8-8cdc-46e1-9b89-6cdb26434966.png)
+  
+  2. Voltaje que pasa por R5 en el circuito original.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/211032093-5f96bb76-5561-405e-88a8-972b359aab57.png)
+  
+  3. Medición de la resistencia de Thévenin.
+  
+  ![image](https://user-images.githubusercontent.com/116693260/211031641-c77aba50-484c-4314-80c2-e5024e8da244.png)
+
+  4. Medición del voltaje de Thévenin
+
+  ![image](https://user-images.githubusercontent.com/116693260/211031686-9bb381d0-7778-4b83-ac28-b1974d111640.png)
+
+  5. Circuito equivalente de Thévenin y medición de voltaje y corriente de R5 en el mismo
+  
+  Corriente
+  
+  ![image](https://user-images.githubusercontent.com/116693260/211032383-95973a03-ae80-4a57-ae8a-4181acaa2c52.png)
+
+  Voltaje
+  
+  ![image](https://user-images.githubusercontent.com/116693260/211032439-a2f2d92d-3a6c-4bd0-bdb2-f0d60a44e108.png)
 
 ## CÁLCULOS
 
@@ -85,7 +111,13 @@ Comprobar experimentalmente el Teorema de Thévenin en un circuito resistivo.
 
 ![LAB_2](https://user-images.githubusercontent.com/116693260/210484816-47cff39e-d117-41e8-a1fc-387dbc81c202.jpg)
 
+## VIDEO EXPLICATIVO 
+
+https://uespe-my.sharepoint.com/✌️/g/personal/dxguallpa_espe_edu_ec/EQQUU0D492JOnEp9sk6PUj4Bk5j2lgCy5aXQR8LhtV2LqQ?e=gLcmyB
+
 ## CONCLUSIONES
+
+* Efectivamente, se ha determinado de manera experimental que el teorema de Thévenin ofrece un método para simplificar un circuito de cualquir complegidad, en un circuito equivalente que contenga de forma única una fuente de voltaje con un resistor en serie además de la carga que se desea analizar, como tal un circuito en serie sencillo, y así poder aplicar ley de Ohm para hallar el voltaje o la corriente que pasa por la carga a ser analizada.
 
 ## BIBLIOGRAFÍA
 
