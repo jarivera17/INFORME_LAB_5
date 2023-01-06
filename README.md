@@ -113,7 +113,7 @@ Docente : Ing. Darwin Alulema
 
 ## VIDEO EXPLICATIVO 
 
-https://uespe-my.sharepoint.com/✌️/g/personal/dxguallpa_espe_edu_ec/EQQUU0D492JOnEp9sk6PUj4Bk5j2lgCy5aXQR8LhtV2LqQ?e=gLcmyB
+https://uespe-my.sharepoint.com/:v:/g/personal/jfsalazar12_espe_edu_ec/EdcE9sLH2l5HtAg69VtuMnoBjm11W49x5Yd3aVu8ek0UTA?e=GoYTNK
 
 ## CONCLUSIONES
 
